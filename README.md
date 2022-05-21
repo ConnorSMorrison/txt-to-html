@@ -2,6 +2,9 @@
 
 Converts simple text files to HTML and styles them with CSS
 
+## Requirements
+`pip3 install typed-argument-parser`
+
 ## Usage
 
 ```
