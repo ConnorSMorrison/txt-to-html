@@ -1,4 +1,4 @@
-# Elinon
+# txt-to-html
 
 Converts simple text files to HTML and styles them with CSS
 
